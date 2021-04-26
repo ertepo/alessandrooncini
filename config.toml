@@ -1,6 +1,6 @@
 # SETUP
 baseurl = "/"
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "it"
 publishdir = "public"
 canonifyUrls = "true"
 disableKinds = ["RSS","taxonomy","taxonomyTerm"] # disable hugo's content that we don't need...
