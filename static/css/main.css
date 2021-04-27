@@ -7593,7 +7593,7 @@ html {
   
   @media (min-width: 992px) and (max-width: 1400px) {
     .logo {
-      width: calc(14.925% + 70px);
+      width: calc(14.925%);
     }
     .logo.atail-logo-rotate {
       height: 70px;
@@ -8370,7 +8370,7 @@ html {
     height: 100%;
     -webkit-transition: width .6s ease;
     transition: width .6s ease;
-    background-color: blue;
+    background-color: rgb(17, 17, 17);
     -webkit-backface-visibility: hidden;
             backface-visibility: hidden;
   }
@@ -8437,7 +8437,7 @@ html {
     margin: 0 2px;
     border: 1px solid transparent;
     border-radius: 50%;
-    background-color: blue;
+    background-color: rgb(17, 17, 17);
   }
   
   .atail-dot.start-animation {
