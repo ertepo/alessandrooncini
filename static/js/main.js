@@ -1304,7 +1304,7 @@
 	    value: function _createLink() {
 	      var more = this.more = document.createElement('li');
 	      more.className = 'col-xs-2 more-links menu-item-has-children';
-	      more.innerHTML = '<a href="#"><span>More</span></a><ul></ul>';
+	      more.innerHTML = '<a href="#"><span>Altro</span></a><ul></ul>';
 	      this.moreUl = more.querySelector('ul');
 	    }
 	  }, {

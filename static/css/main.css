@@ -5670,7 +5670,7 @@ html {
   }
   
   .page-numbers.current {
-    color: #1957f3;
+    color: #00758F;
   }
   
   .blog-promo-box {
@@ -6708,7 +6708,7 @@ html {
       -webkit-transform: translate(50%, 100%);
               transform: translate(50%, 100%);
       opacity: 0;
-      background-color: #1957f3;
+      background-color: #00758F;
     }
     .atail-header-opened nav, .atail-header-opened
     nav.row {
@@ -7207,7 +7207,7 @@ html {
   
   @media (min-width: 992px) {
     .nav-list > li > a:hover {
-      color: #1957f3;
+      color: #00758F;
     }
   }
   
@@ -7215,7 +7215,7 @@ html {
     .nav-list > li:hover.menu-item-has-children {
       -webkit-transition: background-color 0s linear .1s;
       transition: background-color 0s linear .1s;
-      background-color: #1957f3;
+      background-color: #00758F;
     }
   }
   
@@ -7254,7 +7254,7 @@ html {
       -webkit-transform: translateY(-200%);
               transform: translateY(-200%);
       opacity: 1;
-      background-color: #1957f3;
+      background-color: #00758F;
     }
     .nav-list > li > ul li {
       -webkit-transition: opacity 0.2s ease;
@@ -9193,11 +9193,11 @@ html {
   }
   
   .all-atail-projects-category ul a:hover {
-    color: #1957f3;
+    color: #00758F;
   }
   
   .all-atail-projects-category ul a.active {
-    color: #1957f3;
+    color: #00758F;
   }
   
   .all-atail-projects > div > div {
@@ -11983,7 +11983,7 @@ html {
       color: #4d4f54;
     }
     .sides a:hover {
-      color: #1957f3;
+      color: #00758F;
     }
   }
   
@@ -12392,7 +12392,7 @@ html {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #1957f3;
+    background-color: #00758F;
     border-right: 1px solid #edf5f8;
     opacity: .8;
     z-index: -1;
