@@ -6746,7 +6746,7 @@ html {
       margin-left: 41px;
       content: 'MENU';
       letter-spacing: 1px;
-      color: #0e42c2;
+      color: #e0e0e0;
     }
   }
   
@@ -6899,7 +6899,7 @@ html {
     margin: 0 10px 0 0;
     content: "0" counters(section, ".");
     letter-spacing: .7px;
-    color: #0e42c2;
+    color: #e0e0e0;
   }
   
   @media (min-width: 992px) {
@@ -6920,7 +6920,7 @@ html {
     max-width: 100%;
     text-decoration: none;
     letter-spacing: 1.25px;
-    text-transform: uppercase;
+    text-transform: none;
   }
   
   @media (max-width: 991px) {
@@ -7113,7 +7113,7 @@ html {
     }
     .nav-list > li.more-links > ul > li > a,
     .nav-list > li.more-links > ol > li > a {
-      text-transform: uppercase;
+      text-transform: none;
     }
     .nav-list > li.more-links > ul > li > a .nav-list-counter,
     .nav-list > li.more-links > ol > li > a .nav-list-counter {
@@ -7147,7 +7147,7 @@ html {
   
   .nav-list > li > a {
     display: inline-block;
-    text-transform: uppercase;
+    text-transform: none;
   }
   
   @media (max-width: 991px) {
