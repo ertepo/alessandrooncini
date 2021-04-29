@@ -9610,8 +9610,8 @@ html {
     left: 0;
     display: block;
     height: 100%;
-    -o-object-fit: cover;
-       object-fit: cover;
+    -o-object-fit: contain;
+       object-fit: contain;
     -webkit-transform: translateZ(0);
             transform: translateZ(0);
   }
